@@ -24,7 +24,7 @@ development phase.
 You can install the development version with:
 
 ``` r
-remotes::install_github("AndrewMcNeilAnalytics/purer")
+remotes::install_github("armcn/purer")
 ```
 
 ## Motivation
